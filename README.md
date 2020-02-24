@@ -1,5 +1,3 @@
-#These were the results
-
 Combination giving least Mean Squared Error:-
 
 SJR, Total Cites (3years), Cites / Doc. (2years), Ref. / Doc.
